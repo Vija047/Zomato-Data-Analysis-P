@@ -15,10 +15,4 @@ This project analyzes Zomato restaurant data using Python, focusing on visualizi
 - numpy 
 - matplotlib
 
-## Code Snippet
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
-![alt text](image-1.png)
+![Screenshot 2025-03-13 000502](https://github.com/user-attachments/assets/50f3fe56-4b93-4b77-9382-63d549edf30e)
